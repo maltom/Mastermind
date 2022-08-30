@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomasz/interview/Cobham/Game.cpp
+Game.h
+/home/tomasz/interview/Cobham/Game.h
+iostream
+-
+random
+-
+string
+-
+vector
+-
+
+/home/tomasz/interview/Cobham/Game.h
+string
+-
+utility
+-
+
