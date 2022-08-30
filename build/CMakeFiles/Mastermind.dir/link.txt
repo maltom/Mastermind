@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/Mastermind.dir/main.cpp.o CMakeFiles/Mastermind.dir/Game.cpp.o  -o Mastermind 

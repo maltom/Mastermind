@@ -1,3 +1,0 @@
-/home/tomasz/interview/Cobham/build/CMakeFiles/rebuild_cache.dir
-/home/tomasz/interview/Cobham/build/CMakeFiles/edit_cache.dir
-/home/tomasz/interview/Cobham/build/CMakeFiles/Mastermind.dir
